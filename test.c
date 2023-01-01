@@ -1,6 +1,8 @@
 #include<stdio.h>  
 #include<conio.h>
 
+int fun(int *p1,int *p2);
+
 int main(){
     int a,b;
     printf("Enter two numbers: ");
@@ -20,4 +22,3 @@ int fun(int *p1, int *p2){
     *p1 = d;
     *p2 = c;
 }
-
