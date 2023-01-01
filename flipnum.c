@@ -1,3 +1,5 @@
+//This programm uses functions and pointers to inputer two numbers and display them in a flipped order :)
+
 #include<stdio.h>  
 #include<conio.h>
 
