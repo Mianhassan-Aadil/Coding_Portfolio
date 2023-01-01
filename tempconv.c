@@ -1,3 +1,5 @@
+//This program uses functions and pointers for temprature conversion :)
+
 #include <stdio.h>
 #include <ctype.h>
 
