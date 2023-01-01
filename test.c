@@ -1,7 +1,7 @@
 #include<stdio.h>  
 #include<conio.h>
 
-int fun(int *p1,int *p2);
+int fun(int *p1,int *p2); //to avoid declaration conflict.
 
 int main(){
     int a,b;
